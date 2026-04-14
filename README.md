@@ -61,7 +61,7 @@ The US produces the highest amount of content
 
 🚀 How to Run the Project
 # Clone the repository
-git clone https://github.com/your-username/netflix-data-analysis.git
+git clone https://github.com/RishavSinghRajput/netflix-data-analysis.git
 
 # Navigate to project folder
 cd netflix-data-analysis
